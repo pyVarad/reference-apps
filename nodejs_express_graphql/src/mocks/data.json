@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "uid:001",
+            "name": "john",
+            "description": "Software Engineer.",
+            "age": "24"
+        },
+        {
+            "id": "uid:002",
+            "name": "samantha",
+            "description": "Student.",
+            "age": "18"
+        },
+        {
+            "id": "uid:003",
+            "name": "Rambo",
+            "description": "Boxing.",
+            "age": "26"
+        }
+    ]
+}
